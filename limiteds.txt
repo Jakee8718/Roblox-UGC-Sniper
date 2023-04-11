@@ -1,1 +1,3 @@
-Sparkle Stuck Halo of Lapis
+list your limiteds here, if there are free items you can add here as well, when they become limited they will be bought. (Make sure you only put scheduled limited UGC'S that are free)
+
+Write with commas Example:  Asset1, Asset2, Asset3, Asset4
